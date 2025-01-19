@@ -15,6 +15,7 @@ export interface PropertyProps {
   address: address
   rating: number
   category: string[]
+  description?: string
   price: number
   offers: offers
   image: string

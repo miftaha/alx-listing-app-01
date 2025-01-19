@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 const images = [
   '/assets/images/room.jpg',
   '/assets/images/vacation.jpg',
@@ -9,12 +11,14 @@ const Header = () => {
   return (
     <header className="border-b border-[#1d1a1a] shadow-md py-8 bg-[#FFFFFF]">
       <div className="px-6 text-white grid   sm:grid-cols-3 gap-3">
-        <img
-          src="/assets/images/logo.png"
-          alt="alx-listing-app"
-          width={50}
-          height={30}
-        />
+        <Link href="/">
+          <img
+            src="/assets/images/logo.png"
+            alt="alx-listing-app"
+            width={50}
+            height={30}
+          />
+        </Link>
 
         <input
           type="text"

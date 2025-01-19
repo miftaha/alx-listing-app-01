@@ -2,6 +2,8 @@ import { PropertyProps } from '@/interfaces'
 export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   {
     name: 'Villa Ocean Breeze',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Seminyak',
       city: 'Bali',
@@ -21,6 +23,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Mountain Escape Chalet',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Aspen',
       city: 'Colorado',
@@ -40,6 +44,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Cozy Desert Retreat',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Palm Springs',
       city: 'California',
@@ -59,6 +65,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'City Lights Penthouse',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'New York',
       city: 'New York',
@@ -78,6 +86,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Riverside Cabin',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Queenstown',
       city: 'Otago',
@@ -97,6 +107,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Modern Beachfront Villa',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Sidemen',
       city: 'Bali',
@@ -116,6 +128,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Lakeside Chalet',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Banff',
       city: 'Alberta',
@@ -123,6 +137,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     rating: 4.65,
     category: ['Lakeside', 'Mountain View', 'Hiking Trails'],
+
     price: 2300,
     offers: {
       bed: '3',
@@ -135,6 +150,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Tropical Garden Villa',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Koh Samui',
       city: 'Surat Thani',
@@ -154,6 +171,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Urban Loft',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Berlin',
       city: 'Berlin',
@@ -173,6 +192,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Secluded Forest Cabin',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Whistler',
       city: 'British Columbia',
@@ -211,6 +232,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Coastal Escape Villa',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Noosa',
       city: 'Queensland',
@@ -230,6 +253,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Historical Villa',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Florence',
       city: 'Tuscany',
@@ -249,6 +274,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Downtown Apartment',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Tokyo',
       city: 'Tokyo',
@@ -268,6 +295,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Luxury Safari Lodge',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Serengeti',
       city: 'Mara',
@@ -287,6 +316,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Countryside Cottage',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Cotswolds',
       city: 'Gloucestershire',
@@ -306,6 +337,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Riverfront Mansion',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Paris',
       city: 'Île-de-France',
@@ -325,6 +358,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Ski Chalet',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Zermatt',
       city: 'Valais',
@@ -344,6 +379,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Island Paradise Villa',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Mahe',
       city: 'Victoria',
@@ -363,6 +400,8 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
   },
   {
     name: 'Clifftop Retreat',
+    description:
+      'Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.',
     address: {
       state: 'Cape Town',
       city: 'Western Cape',

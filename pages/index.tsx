@@ -1,5 +1,6 @@
 import Pill from '@/components/common/Pill'
 import { PROPERTYLISTINGSAMPLE } from '@/constants'
+import Link from 'next/link'
 
 const filterArray = [
   'All',
@@ -12,7 +13,7 @@ const filterArray = [
 
 const Home: React.FC = () => {
   return (
-    <div className="">
+    <div className="bg-[#FFFFFF]">
       <section className="px-6 py-8">
         {/* hero section */}
         <div
@@ -38,14 +39,16 @@ const Home: React.FC = () => {
       </section>
 
       <section className="grid sm:grid-cols-2 lg:grid-cols-3  gap-16 px-6">
-        {PROPERTYLISTINGSAMPLE.map((property, index) => {
+        {PROPERTYLISTINGSAMPLE.map((property) => {
           return (
-            <article className=" rounded-lg shadow-lg" key={index}>
-              <img
-                src={property.image}
-                alt={property.name}
-                className="object-cover w-full h-[255px]  rounded-[16.5px]"
-              />
+            <article className=" rounded-lg shadow-lg" key={property.name}>
+              <Link href={`/property/${property.name}`}>
+                <img
+                  src={property.image}
+                  alt={property.name}
+                  className="object-cover w-full h-[255px]  rounded-[16.5px]"
+                />
+              </Link>
 
               <h2 className="text-[#161117] font-semibold text-[22px] leading-[27.5px] text-center py-4">
                 {property.name}
